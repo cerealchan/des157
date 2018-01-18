@@ -1,0 +1,44 @@
+html {
+    background-color: #42213D;
+    color: #6B9080;
+    font-family: sans-serif;
+}
+
+a {
+    color: #AAEFDF;
+}
+
+
+h1 {
+    font-size: 2rem;
+    margin:auto;
+    margin-top: 10px;
+    width:800px;
+}
+
+#mySketch {
+    margin: auto;
+    width:800px;
+}
+
+main {
+    width: 800px;
+    margin:auto;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+h2 {
+    font-size: 1.5rem;
+    padding-bottom: 5px;
+}
+
+li {
+    padding-bottom: 2px;
+}
+
+footer {
+    background-color: #42213D;
+    width:800px;
+    padding: 10px;
+    position: fixed;
