@@ -1,44 +1,56 @@
-html {
-    background-color: #42213D;
-    color: #6B9080;
-    font-family: sans-serif;
+
+body {
+  background-color: #000022;
+  color: #D0D0FF;
+  text-transform: uppercase;
+  font-family: 'Alegreya Sans', serif;
+  font-style: normal;
+	font-variant: normal;
+	font-weight: lighter;
+  width: 800px;
+  margin: auto;
 }
 
-a {
-    color: #AAEFDF;
+header {
+  margin-top: 30px;
+  height: 300px;
 }
 
-
-h1 {
-    font-size: 2rem;
-    margin:auto;
-    margin-top: 10px;
-    width:800px;
+h1{
+	font-size: 48px;
+	line-height: 48px;
+  text-align: left;
+  letter-spacing: 4px;
+}
+div {
+    float: left;
+    width:50%
 }
 
-#mySketch {
-    margin: auto;
-    width:800px;
-}
-
-main {
-    width: 800px;
-    margin:auto;
-    padding: 15px;
-    border-radius: 20px;
+section {
+  margin:auto
 }
 
 h2 {
-    font-size: 1.5rem;
-    padding-bottom: 5px;
-}
-
-li {
-    padding-bottom: 2px;
+  margin-top: 10px;
+  font-size: 42px;
+  letter-spacing: 4px;
+  float: left;
 }
 
 footer {
-    background-color: #42213D;
-    width:800px;
-    padding: 10px;
-    position: fixed;
+  clear: left;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  width: 800px;
+  text-transform: lowercase;
+  font-size: 17px;
+  background-color: #000022;
+  color: #044389;
+}
+
+footer a {
+text-decoration: none;
+color: #D0D0FF;
+}
