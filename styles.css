@@ -22,11 +22,16 @@ h1{
   text-align: left;
   letter-spacing: 4px;
 }
-div {
+
+#col-1 {
     float: left;
     width:50%
 }
 
+#col-2 {
+  float:right;
+  width:50%
+}
 section {
   margin:auto
 }
