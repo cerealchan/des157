@@ -14,7 +14,6 @@ var myMsg = document.getElementById("myMsg");
 function processForm() {
     console.log("Submitted!");
 
-    //capture the form field responses as vars, too
     var name = document.madlibs.name.value;
     var soft = document.madlibs.soft.value;
     var adjective = document.madlibs.adjective.value;
