@@ -2,7 +2,7 @@ body {
   background-color: #000022;
   color: #D0D0FF;
   text-transform: uppercase;
-  font-family: 'Alegreya Sans', serif;
+  font-family: 'Nunito', serif;
   font-style: normal;
 	font-variant: normal;
 	font-weight: lighter;
@@ -20,19 +20,6 @@ h1{
 	line-height: 48px;
   text-align: left;
   letter-spacing: 4px;
-}
-
-#col-1 {
-    float: left;
-    width:50%
-}
-
-#col-2 {
-  float:right;
-  width:50%
-}
-section {
-  margin:auto
 }
 
 h2 {
