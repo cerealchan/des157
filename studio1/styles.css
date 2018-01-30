@@ -1,6 +1,6 @@
 body {
   color: #2F004F;
-  background-color: #2F004F;
+  background-color: #FCE0F2;
   text-transform: uppercase;
   font-family: 'Nunito', serif;
   font-style: normal;
@@ -39,7 +39,7 @@ footer {
   width: 800px;
   text-transform: lowercase;
   font-size: 17px;
-  background-color: #2F004F;
+  background-color: #FCE0F2;
   color: #2F004F;
 }
 
