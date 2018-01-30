@@ -1,6 +1,6 @@
 body {
-  color: #2F004F;
-  background-color: #FCE0F2;
+  background-color: #000022;
+  color: #D0D0FF;
   text-transform: uppercase;
   font-family: 'Nunito', serif;
   font-style: normal;
@@ -20,17 +20,12 @@ h1{
 	line-height: 48px;
   text-align: left;
   letter-spacing: 4px;
-	color: #2F004F;
-	background-color: #FCE0F2;
 }
-
 h2 {
   margin-top: 10px;
   font-size: 42px;
   letter-spacing: 4px;
   float: left;
-	color: #2F004F;
-	background-color: #FCE0F2;
 }
 
 footer {
@@ -41,11 +36,11 @@ footer {
   width: 800px;
   text-transform: lowercase;
   font-size: 17px;
-  background-color: #FCE0F2;
-  color: #2F004F;
+  background-color: #000022;
+  color: #044389;
 }
 
 footer a {
 text-decoration: none;
-color: #2F004F;
+color: #D0D0FF;
 }
