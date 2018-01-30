@@ -1,8 +1,8 @@
 body {
-  background-color: #000022;
+  background-color: #FCE0F2;
   color: #D0D0FF;
   text-transform: uppercase;
-  font-family: 'Nunito', serif;
+  font-family: 'A', serif;
   font-style: normal;
 	font-variant: normal;
 	font-weight: lighter;
@@ -21,6 +21,7 @@ h1{
   text-align: left;
   letter-spacing: 4px;
 }
+
 h2 {
   margin-top: 10px;
   font-size: 42px;
@@ -36,7 +37,7 @@ footer {
   width: 800px;
   text-transform: lowercase;
   font-size: 17px;
-  background-color: #000022;
+  background-color: #FCE0F2;
   color: #044389;
 }
 
