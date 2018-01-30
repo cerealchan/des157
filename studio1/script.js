@@ -21,5 +21,4 @@ function processForm() {
 
     myMsg.innerHTML = "Hi" + name + "You are as kind as a" + adjective + soft + "and just as" + positive + "too! You are awesome!"
 
-    return false;
 }
